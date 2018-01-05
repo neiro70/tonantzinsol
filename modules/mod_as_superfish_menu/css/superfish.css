@@ -1,0 +1,181 @@
+
+/*******************************************************************************************/
+/*
+/*        Web: http://www.asdesigning.com
+/*        Web: http://www.astemplates.com
+/*        License: GNU General Public License version 3 or later
+/*
+/*******************************************************************************************/
+
+
+.sf-menu, .sf-menu *
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.navigation
+{
+	position: relative;
+}
+
+.sf-menu
+{
+	position: relative;
+	overflow: visible;
+	clear: both;
+	height: auto !important;
+}
+
+.sf-menu:after
+{
+	clear: both;
+	display: inline-block;
+	content: '';
+}
+
+.sf-menu.in
+{
+	height: auto !important;
+}
+
+.btn-sf-menu
+{
+	display: none;
+	float: left;
+	margin-bottom: 0px;
+	line-height: 25px;
+}
+
+.scroll-to-fixed-fixed
+{
+	-moz-box-sizing: content-box !important;
+	-webkit-box-sizing: content-box !important;
+	box-sizing: content-box !important;
+}
+
+.select-menu
+{
+	width: 100%;
+	display: none;
+	margin: 0;
+}
+
+.select-menu option
+{
+	padding: 3px 10px;
+}
+
+.sf-menu li
+{
+	position: relative;
+}
+
+.sf-menu ul
+{
+	position: absolute;
+	display: none;
+	left: 0;
+	z-index: 99;
+}
+
+.sf-menu > li
+{
+	float: left;
+}
+
+.sf-menu li:hover > ul, 
+.sf-menu li.sfHover > ul
+{
+	display: block;
+}
+
+.sf-menu a
+{
+	display: block;
+	position: relative;
+	padding: 10px;
+}
+
+.sf-menu ul ul
+{
+	top: 0;
+	left: 100%;
+}
+
+ul.sf-menu > li.deeper > a:after
+{
+	display: inline-block;
+	background: url('../images/dd.arrow.png') left top no-repeat;
+	width: 7px;
+	height: 5px;
+	position: relative;
+	left: 12px;
+	top: -4px;
+	content: "";
+}
+
+ul.sf-menu ul > li.deeper > a:after
+{
+	display: inline-block;
+	background: url('../images/ddr.arrow.png') left top no-repeat;
+	width: 5px;
+	height: 7px;
+	position: relative;
+	left: 15px;
+	top: -2px;
+	content: "";
+}
+
+@media (max-width: 767px) 
+{
+
+	.btn-navbar
+	{
+		display: block;
+	}
+	
+	.navigation .btn-sf-menu 
+	{
+		border: 1px solid #ccc;
+		border-radius: 0;
+		box-shadow: none;
+		color: #85b1d8;
+		float: left;
+		font-size: 18px;
+		line-height: 53px;
+		margin: 0 5px 15px 0px;
+		padding: 10px 15px;
+	}
+	
+	select.select-menu
+	{
+		border-radius: 0px;
+		margin-bottom: 20px;
+		display: block;
+	}
+	
+	ul.sf-menu
+	{
+		overflow: hidden;
+		height: 0 !important;
+		float: none;
+		width: 100%;
+	}
+	
+	ul.sf-menu > li
+	{
+		float: none;
+		width: 100%;
+		margin: 0;
+		border-right: 0px !important;
+	}
+	
+	ul.sf-menu>li ul
+	{
+		padding: 10px 0px;
+		width: auto;
+		position: static;
+	}
+}

@@ -1,0 +1,250 @@
+
+/**************************************************************************************/
+/*
+/*		Web: http://www.asdesigning.com
+/*		Web: http://www.astemplates.com
+/*		License: GNU/GPL
+/*
+/**************************************************************************************/
+
+.navigation
+{
+	float: none;
+	text-align: center;
+}
+
+.navigation ul.sf-menu 
+{
+    display: inline-block;
+}
+
+.navigation ul.sf-menu > li,
+.navigation ul.sf-menu ul > li 
+{
+    list-style: outside none none;
+}
+
+#as-menu 
+{
+    background-color: transparent;
+	background-image: none;
+	min-height: 20px;
+}
+
+#as-menu ul.as-menu
+{
+    float: left;
+    left: 50%;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: center;	
+}
+
+ul.sf-menu > li a,
+ul.sf-menu > li > span,
+#as-menu ul.as-menu > li a,
+#as-menu ul.as-menu > li > span
+{
+	margin: 0px;
+	padding: 0px 10px;
+	display: block;
+	font-weight: normal;
+	line-height: 20px;
+	text-transform: lowercase;
+	letter-spacing: 1px;
+	color: #ffffff;	
+}
+
+ul.sf-menu > li a,
+ul.sf-menu > li > span
+{
+	padding: 12px 10px;	
+}
+
+ul.sf-menu > li a:hover,
+#as-menu ul.as-menu > li a:hover
+{
+	background: none !important;	
+}
+
+ul.sf-menu > li,
+ul.sf-menu > li:hover
+{
+	width: auto;
+	margin: 0 2px;
+	padding: 0px 12px;
+	background: none;
+	border-top: 2px solid transparent;	
+}
+
+#as-menu ul.as-menu > li,
+#as-menu ul.as-menu > li:hover
+{
+	width: auto;
+	margin: 0 3px;
+	padding: 12px 12px;
+	background: none;
+	border-top: 2px solid #2f1f1f;	
+	left: -50%;		
+}
+
+#as-menu ul.as-menu > li.lastItem
+{
+	border-right: none !important;
+}
+
+#as-menu ul.as-menu > li:first-child
+{
+	margin-left: 0px;	
+}
+
+#as-menu ul.as-menu > li.deeper > a:after
+{
+	top: -2px;	
+}
+
+#as-menu ul.as-menu > li.active > a,
+#as-menu ul.as-menu > li.current > a,
+#as-menu ul.as-menu > li.asHover > a,
+#as-menu ul.as-menu > li:hover > a,
+#as-menu ul.as-menu > li > a:hover,
+#as-menu ul.as-menu > li > span:hover
+{
+}
+
+ul.sf-menu > li a,
+#as-menu ul.as-menu > li > a
+{
+	color: #ffffff;	
+}
+
+ul.sf-menu > li.active,
+ul.sf-menu > li.current,
+ul.sf-menu > li:hover,
+#as-menu ul.as-menu > li.active,
+#as-menu ul.as-menu > li.current,
+#as-menu ul.as-menu > li:hover
+{
+	border-top: 2px solid #D96C40;	
+}
+
+ul.sf-menu > li.active.a,
+ul.sf-menu > li.current a,
+ul.sf-menu > li:hover a,
+#as-menu ul.as-menu li.active a,
+#as-menu ul.as-menu li.current a,
+#as-menu ul.as-menu li:hover a
+{
+	color: #F9DDA4;
+}
+
+ul.sf-menu ul 
+{
+    width: 191px;
+	padding: 12px 0 13px;
+	top: 45px;
+}
+
+ul.sf-menu li:hover ul,
+#as-menu ul.as-menu li:hover ul,
+#as-menu ul.as-menu li.asHover ul
+{
+	left: 0;
+	top: 45px;
+	z-index: 100;
+}
+
+ul.sf-menu ul,
+ul.sf-menu ul ul,
+#as-menu ul.as-menu ul,
+#as-menu ul.as-menu ul ul
+{
+	background-color: #2F1F1F;
+	background-image: -moz-linear-gradient(top, #2F1F1F, #000);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2F1F1F), to(#000));
+	background-image: -webkit-linear-gradient(top, #2F1F1F, #000);
+	background-image: -o-linear-gradient(top, #2F1F1F, #000);
+	background-image: linear-gradient(to bottom, #2F1F1F, #000);
+	opacity: 0.9;
+	border-radius: 0;	
+}
+
+ul.sf-menu ul li a,
+ul.sf-menu ul li span,
+#as-menu ul.as-menu ul li a,
+#as-menu ul.as-menu ul li span
+{
+	color: #fff !important;
+	background-image: none !important;
+	margin: 0px;
+	text-transform: lowercase;
+    line-height: 20px;
+    padding: 0.5em 1em 0.3em;
+    text-align: center;
+    text-decoration: none;	
+}
+
+ul.sf-menu ul li a:hover,
+ul.sf-menu ul li span:hover,
+ul.sf-menu ul li.active > a,
+ul.sf-menu ul li.active > span,
+#as-menu ul.as-menu ul li a:hover,
+#as-menu ul.as-menu ul li span:hover,
+#as-menu ul.as-menu ul li.active > a,
+#as-menu ul.as-menu ul li.asHover > a,
+#as-menu ul.as-menu ul li.active > span,
+#as-menu ul.as-menu ul li.asHover > span
+{
+	color: #F9DDA4 !important;
+}
+
+ul.sf-menu ul ul,
+#as-menu ul.as-menu ul ul
+{
+	left: 193px !important;
+}
+
+@media (max-width: 767px) 
+{
+	.navigation
+	{
+		margin-bottom: 0px;
+	}
+	
+	#as-menu ul.as-menu
+	{
+		display: none;
+	}	
+
+	.navigation .btn-sf-menu
+	{
+		background-color: transparent;
+		color: #ffffff;
+		line-height: 20px;
+		margin: 15px 5px 0px 0px;
+		padding: 10px 55px;
+		display: inline-block;
+		float: none;
+	}
+
+	ul.sf-menu li.firstItem
+	{
+		margin-top: 20px;
+	}	
+	
+	ul.sf-menu > li.active,
+	ul.sf-menu > li.current,
+	ul.sf-menu > li:hover,
+	ul.sf-menu > li,
+	ul.sf-menu > li:hover
+	{
+		border-top: 0px;
+	}
+	
+	ul.sf-menu ul li.firstItem
+	{
+		margin-top: 0px;
+	}	
+}
