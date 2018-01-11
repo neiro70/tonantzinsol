@@ -481,7 +481,7 @@
          
              $("#sendEmail").click(function() {
 
-                 console.info($("#").serialize());
+                 
              $.ajax({
                      url: '<?php echo $context ?>/pages/email.php',
                      type: "POST",
@@ -493,11 +493,12 @@
                         toastr.error('¡Error al enviar correo!');
                     }else{
                         toastr.success('¡Exito se envio correo!');
+                        location.reload();
+
                     }
                      
                  })
-                 .fail(function(data) {
-         
+                 .fail(function(data) {         
                      toastr.error('¡Error al enviar correo!');
                  })
                  .always(function(data) {
