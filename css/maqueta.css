@@ -1,0 +1,281 @@
+
+
+body
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;	font-size: 12px;	}
+
+a, #featured-row .mod-newsflash .item:hover h2
+{
+	}
+
+a:hover,
+a.selected
+{
+	}
+
+
+/**************************************************************************************/
+/*   Forms																			  */
+
+
+input,
+button,
+select,
+textarea
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;}
+
+
+/**************************************************************************************/
+/*   Headings and Titles															  */
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.item_header .item_title
+{
+    font-family: 'Arimo', Arial, serif !important;}
+
+h1
+{
+		}
+
+h2
+{
+		}
+
+h3,
+.item_header .item_title
+{
+		}
+
+h4
+{
+			
+}
+
+h5
+{
+			
+}
+
+
+/**************************************************************************************/
+/*   Lists																			  */
+
+
+.categories-module li a,
+.archive-module li a
+{
+	}
+
+.categories-module li a:hover,
+.archive-module li a:hover
+{
+	}
+
+
+/**************************************************************************************/
+/*   Buttons																		  */
+
+
+a.btn,
+.btn_info,
+.btn-info,
+.btn-group button.btn,
+.btn-primary,
+.btn_primary,
+.contentpane .button
+{
+			
+
+	}
+
+a.btn:hover,
+.btn_info:hover,
+.btn-info:hover,
+.btn_info:active,
+.btn-info:active,
+.btn_info.active,
+.btn-info.active,
+.btn_info.disabled,
+.btn-info.disabled,
+.btn_info[disabled],
+.btn-info[disabled],
+.btn-primary:hover,
+.btn_primary:hover,
+.btn-primary:active,
+.btn_primary:active,
+.btn-primary.active,
+.btn_primary.active,
+.btn-primary.disabled,
+.btn_primary.disabled,
+.btn-primary[disabled],
+.btn_primary[disabled],
+.contentpane .button:hover
+{
+				
+}
+
+
+/**************************************************************************************/
+/*   Logo Row		  																  */
+
+
+#header-row .moduletable.call-now
+{
+	}
+
+#header-row .moduletable.call-now div
+{
+    font-family: 'Arimo', Arial, serif !important;}
+
+#header-row .logo
+{
+	float: left;
+	line-height: 60px;
+	min-width: 240px;
+}
+
+#header-row .logo,
+#header-row .logo a,
+#header-row .logo a:hover
+{
+	font-family: 'Open Sans', Arial, serif !important;		font-style: normal;	font-weight: bold;	}
+
+#header-row .logo span.slogan
+{
+	left: 5px;
+	top: 0px;
+	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-style: normal;	font-weight: normal;		
+}
+
+
+/**************************************************************************************/
+/*   Footer
+/**************************************************************************************/
+/**************************************************************************************/
+
+
+#footer-row ul.nav li a
+{
+	}
+
+#footer-row ul.nav li a:hover
+{
+	}
+
+#copyright-menu li a,
+#copyright-menu li.current a,
+#copyright-menu li.active a
+{
+	}
+
+#copyright-menu li a:hover
+{
+	}
+
+
+ul.sf-menu
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;}
+
+ul.sf-menu > li > a, 
+ul.sf-menu > li > span 
+{
+    	font-size:12px;}
+
+ul.sf-menu > li.active > a, 
+ul.sf-menu > li.current > a, 
+ul.sf-menu > li.active > span, 
+ul.sf-menu > li.current > span 
+{
+    }
+
+ul.sf-menu > li > a:hover, 
+ul.sf-menu > li > span:hover
+{
+	}
+
+ul.sf-menu ul 
+{
+	}
+
+ul.sf-menu ul li a, 
+ul.sf-menu ul li span
+{
+    	font-size:12px;}
+
+ul.sf-menu ul li.active > a, 
+ul.sf-menu ul li.active > span
+{
+    }
+
+ul.sf-menu ul li a:hover, 
+ul.sf-menu ul li span:hover
+{
+	}
+	
+
+.slide_title
+{
+    color: #FFFFFF;
+}
+
+.slide_title a
+{
+    color: #FFFFFF;
+}
+
+.slide_title a:hover
+{
+    color: #;
+}
+
+.slide_title .item_title_part0 
+{
+    color: #F9DDA4;	
+}
+
+.slide_title .item_title_part1
+{
+    color: #F9DDA4;	
+}
+
+.camera_caption p
+{
+    color: #B09C74;
+	font-size: 14px;
+}
+
+.camera_caption a.readmore
+{
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	
+	}
+
+.camera_caption a.readmore:hover
+{
+	background-color: #FFFFFF;
+}
+
+.camera_wrap .camera_pag .camera_pag_ul li.cameracurrent, 
+.camera_wrap .camera_pag .camera_pag_ul li:hover
+{
+	background-color: #;	
+	-webkit-border-radius: 10px;		
+	-moz-border-radius: 10px;		
+	border-radius: 10px;	
+}
+
+.camera_wrap .camera_pag .camera_pag_ul li
+{
+	background-color: #;
+	-webkit-border-radius: 10px;		
+	-moz-border-radius: 10px;		
+	border-radius: 10px;		
+}
