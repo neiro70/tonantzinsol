@@ -277,19 +277,19 @@
                                     <div class="span5">
                                        <label id="jform_contact_name-lbl" for="jform_contact_name" class="required" title="Nombre" data-content="Nombre">
                                        Nombre<span class="star">&#160;*</span></label>
-                                       <div class="controls"><input type="text" name="jform[contact_name]" id="jform_contact_name" value="" class="required" size="30" required aria-required="true" /></div>
+                                       <div class="controls"><input type="text" name="jform_contact_name" id="jform_contact_name" value="" class="required" size="30" required aria-required="true" /></div>
                                        <label id="jform_contact_email-lbl" for="jform_contact_email" class="required" title="correo" data-content="correo">
                                        Correo<span class="star">&#160;*</span></label>
-                                       <div class="controls"><input type="email" name="jform[contact_email]" class="validate-email required" id="jform_contact_email" value="" size="30" autocomplete="email" required aria-required="true" /></div>
+                                       <div class="controls"><input type="email" name="jform_contact_email" class="validate-email required" id="jform_contact_email" value="" size="30" autocomplete="email" required aria-required="true" /></div>
                                        <label id="jform_contact_emailmsg-lbl" for="jform_contact_emailmsg" class="required" title="Subject" data-content="Titulo del mensaje">
                                        Titulo<span class="star">&#160;*</span></label>
-                                       <div class="controls"><input type="text" name="jform[contact_subject]" id="jform_contact_emailmsg" value="" class="required" size="60" required aria-required="true" /></div>
+                                       <div class="controls"><input type="text" name="jform_contact_emailmsg" id="jform_contact_emailmsg" value="" class="required" size="60" required aria-required="true" /></div>
                                     </div>
                                     <div class="span7">
                                        <label id="jform_contact_message-lbl" for="jform_contact_message" class="required" title="Mensaje" data-content="Mensaje">
                                        Mensaje<span class="star">&#160;*</span></label>
                                        <div class="controls" style="margin-top:-3em;">
-                                          <textarea name="jform[contact_message]" id="jform_contact_message" cols="50" rows="10" class="required jqte-test"   required aria-required="true"></textarea>
+                                          <textarea name="jform_contact_message" id="jform_contact_message" cols="50" rows="10" class="required jqte-test"   required aria-required="true"></textarea>
                                        </div>
                                        <div class="control-group">
                                           <div class="controls">
@@ -480,6 +480,8 @@
             
          
              $("#sendEmail").click(function() {
+
+                 console.info($("#").serialize());
              $.ajax({
                      url: '<?php echo $context ?>/pages/email.php',
                      type: "POST",
