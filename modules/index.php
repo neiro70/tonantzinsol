@@ -892,7 +892,7 @@ Masaje descontracturante: son las manipulaciones realizadas sobre uno o varios g
 
 <div class="mod-custom mod-custom__"  >
 	<h4>Télefono: 55 39 88 71 91</h4>
-<p>E-mail: <a href="nancy10.mv@hotmail.com" target="_top">nancy10.mv@hotmail.com</a></p>
+<p>E-mail: <a href="tonantzinsol10@gmail.com " target="_top">tonantzinsol10@gmail.com </a></p>
 <h3>Previa Cita</h3></div>
 </div></div>
                         </div>

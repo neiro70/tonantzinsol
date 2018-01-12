@@ -866,7 +866,7 @@ La parte física, mental, emocional, y espiritual. Hemos de nutrir, cultivar, cu
 
 <div class="mod-custom mod-custom__"  >
 	<h4>Télefono: 55 2318 3555</h4>
-<p>E-mail: <a href="nancy10.mv@hotmail.com" target="_top">nancy10.mv@hotmail.com</a></p>
+<p>E-mail: <a href="tonantzinsol10@gmail.com " target="_top">tonantzinsol10@gmail.com </a></p>
 <h3>Nuestra Dirección</h3>
 <p>17600 Yonge Biggest St, Toronto, L3Y 4Z1</p></div>
 </div></div>

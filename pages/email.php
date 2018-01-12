@@ -20,7 +20,7 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .= 'From: '.$txtemail . "\r\n";
 //$headers .= 'Cc: myboss@example.com' . "\r\n";
 
-$to="nancy10.mv@hotmail.com";
+$to="tonantzinsol10@gmail.com ";
 $subject="Tonantzinsol ".$txttitulo;
  //echo "to:{$to}, subject:{$subject} ,txtmensaje:{$txtmensaje},txtemail:{$txtemail} ,headers:{$headers}";
 if(mail($to,$subject,$txtmensaje ,$headers) )
