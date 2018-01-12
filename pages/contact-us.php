@@ -13,7 +13,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
    <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <base href="<?php echo $context ?>/index.php/contact-us" />
+      <base href="<?php echo $context ?>" />
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
       <meta name="generator" content="Bluefish 2.2.7" />
       <title>Contactanos</title>
@@ -148,6 +148,15 @@
                            <ul class="sf-menu   sticky" id="module-226">
                               <li class="item-435 current active"><a href="<?=$context ?>">Inicio</a></li>
                               <li class="item-487"><a href="<?=$context ?>/pages/contact-us.php">Contactanos</a></li>
+                              <li class="item-488 deeper dropdown parent">
+                                 <a href="" >¿Sabias que?</a>
+                                 <ul class="sub-menu">
+                                    <li class="item-493"><a href="<?=$context ?>/pages/reiki.php" >Reiki</a></li>
+                                    <li class="item-556"><a href="<?=$context ?>/pages/flowers.php" >Flores de Bach</a></li>
+                                    <li class="item-494"><a href="<?=$context ?>/pages/guies.php" >MEDITACIONES GUIADAS</a></li>
+									<li class="item-494"><a href="<?=$context ?>/pages/terapy.php" >TERAPIA TRANSPERSONAL</a></li>
+                                 </ul>
+                              </li>
                            </ul>
                            <script>
                               // initialise plugins
@@ -336,12 +345,12 @@
                                     <li class="item-557"><a class="facebook" href="https://www.facebook.com/nancy.mendez.1023?fref=ts" target="_blank" title="Facebook"><img
                                        src="<?php echo $context ?>/images/sampledata/asimages/social/facebook-logo-webtreatsetc.png"
                                        alt="Facebook" /></a></li>
-                                    <li class="item-558"><a href="http://www.google.com" target="_blank" title="Google"><img
+                                    <!--li class="item-558"><a href="http://www.google.com" target="_blank" title="Google"><img
                                        src="<?php echo $context ?>/images/sampledata/asimages/social/google-g-logo-webtreatsetc.png"
                                        alt="Google" /></a></li>
                                     <li class="item-559"><a href="http://www.twitter.com" target="_blank" title="Twitter"><img
                                        src="<?php echo $context ?>/images/sampledata/asimages/social/twitter-bird3-webtreatsetc.png"
-                                       alt="Twitter" /></a></li>
+                                       alt="Twitter" /></a></li-->
                                     <!--	<li class="item-561"><a href="http://www.rss.com" target="_blank"-->
                                     <!--		title="Rss"><img-->
                                     <!--		src="/joomla-templates/002060/images/sampledata/asimages/social/rss-basic-webtreatsetc.png"-->

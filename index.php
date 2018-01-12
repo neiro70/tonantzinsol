@@ -100,6 +100,15 @@ if (strpos($context, "localhost") !== false) {
                                     <ul class="sf-menu   sticky" id="module-226">
                                         <li class="item-435 current active"><a href="<?=$context ?>">Inicio</a></li>
                                         <li class="item-487"><a href="<?=$context ?>/pages/contact-us.php">Contactanos</a></li>
+                                        <li class="item-488 deeper dropdown parent">
+                                        <a href="" >¿Sabias que?</a>
+                                        <ul class="sub-menu">
+                                            <li class="item-493"><a href="<?=$context ?>/pages/reiki.php" >Reiki</a></li>
+                                            <li class="item-556"><a href="<?=$context ?>/pages/flowers.php" >Flores de Bach</a></li>
+                                            <li class="item-494"><a href="<?=$context ?>/pages/guies.php" >MEDITACIONES GUIADAS</a></li>
+                                            <li class="item-494"><a href="<?=$context ?>/pages/terapy.php" >TERAPIA TRANSPERSONAL</a></li>
+                                        </ul>
+                                    </li>
                                     </ul>
 
 
@@ -273,7 +282,7 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/skin-care">      
+                                                <a href="<?php echo $context ?>/pages/reiki.php">      
          <img src="/joomla-templates/002060/images/sampledata/asimages/featured/skin_care_1_thumb.jpg" alt=""/>      
       </a>
                                             </div>
@@ -283,7 +292,7 @@ if (strpos($context, "localhost") !== false) {
                                             <h3>Reiki</h3>
                                             <p align="justify">Es una palabra sánscrita que significa REI, energía universal y KI, energía vital.</p>
 
-                                            <!-- a class="readmore" href="#">Leer más...</a-->
+                                            <a class="readmore" href="<?php echo $context ?>/pages/reiki.php">Leer más...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -294,7 +303,7 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/spa-treatments">      
+                                                <a href="<?=$context ?>/pages/flowers.php">      
          <img src="<?php echo $context ?>/images/index/bach.png" alt=""/>      
       </a>
                                             </div>
@@ -304,7 +313,7 @@ if (strpos($context, "localhost") !== false) {
                                             <h3>Flores de Bach</h3>
                                             <p align="justify">Las Flores de Bach son una serie de esencias naturales utilizadas para tratar diversas situaciones emocionales, como miedos, soledad, desesperación, estrés, depresión y obsesiones</p>
 
-                                            <!-- a class="readmore" href="#">Leer más...</a-->
+                                            <a class="readmore" href="<?=$context ?>/pages/flowers.php">Leer más...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -315,7 +324,7 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/aromatherapy">      
+                                                <a href="<?=$context ?>/pages/guies.php">      
          <img src="<?php echo $context ?>/images/index/meditacion.png" alt=""/>      
       </a>
                                             </div>
@@ -335,7 +344,7 @@ if (strpos($context, "localhost") !== false) {
                                     <div class="mod-newsflash mod-newsflash__position-top">
                                         <div class="item">
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/massage">      
+                                                <a href="<?=$context ?>/pages/terapy.php">      
          <img src="<?php echo $context ?>/images/index/transpersonal.jpg" alt=""/>      
       </a>
                                             </div>
@@ -344,7 +353,7 @@ if (strpos($context, "localhost") !== false) {
                                             <h3>Terapia Transpersonal </h3>
                                             <p align="justify">El trabajo mas importante en esta vida es descubrirnos como seres infinitos, conocernos, amarnos y expandir ese amor a los demas</p>
 
-                                            <!-- a class="readmore" href="#">Leer más...</a-->
+                                            <a class="readmore" href="<?=$context ?>/pages/terapy.php">Leer más...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -493,9 +502,9 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/69-pos24-hair-cutting/139-hair-cutting">      
-         <img src="/joomla-templates/002060/images/sampledata/asimages/services/Team.png" alt=""/>      
-      </a>
+                                                  
+         <img src="<?=$context?>/images/sampledata/asimages/services/Team.png" alt=""/>      
+      
                                             </div>
 
 
@@ -518,9 +527,9 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/70-pos24-bridal-services/140-bridal-services">      
-         <img src="/joomla-templates/002060/images/sampledata/asimages/services/Pricing &amp; Quote.png" alt=""/>      
-      </a>
+                                                  
+         <img src="<?=$context?>/images/sampledata/asimages/services/Pricing &amp; Quote.png" alt=""/>      
+    
                                             </div>
 
 
@@ -539,9 +548,9 @@ if (strpos($context, "localhost") !== false) {
                                         <div class="item">
 
                                             <div class="img-intro-none">
-                                                <a href="/joomla-templates/002060/index.php/71-pos24-spa-treatments/141-spa-services">      
-         <img src="/joomla-templates/002060/images/sampledata/asimages/services/Customer Testimonials.png" alt=""/>      
-      </a>
+                                                     
+         <img src="<?=$context?>/images/sampledata/asimages/services/Customer Testimonials.png" alt=""/>      
+      
                                             </div>
 
 
@@ -576,12 +585,12 @@ if (strpos($context, "localhost") !== false) {
                                                 <li class="item-557"><a class="facebook" href="https://www.facebook.com/nancy.mendez.1023?fref=ts" target="_blank" title="Facebook"><img
 		src="<?php echo $context ?>/images/sampledata/asimages/social/facebook-logo-webtreatsetc.png"
 		alt="Facebook" /></a></li>
-                                                <li class="item-558"><a href="http://www.google.com" target="_blank" title="Google"><img
+                                                <!--li class="item-558"><a href="http://www.google.com" target="_blank" title="Google"><img
 		src="<?php echo $context ?>/images/sampledata/asimages/social/google-g-logo-webtreatsetc.png"
 		alt="Google" /></a></li>
                                                 <li class="item-559"><a href="http://www.twitter.com" target="_blank" title="Twitter"><img
 		src="<?php echo $context ?>/images/sampledata/asimages/social/twitter-bird3-webtreatsetc.png"
-		alt="Twitter" /></a></li>
+		alt="Twitter" /></a></li-->
                                                 <!--	<li class="item-561"><a href="http://www.rss.com" target="_blank"-->
                                                 <!--		title="Rss"><img-->
                                                 <!--		src="/joomla-templates/002060/images/sampledata/asimages/social/rss-basic-webtreatsetc.png"-->
