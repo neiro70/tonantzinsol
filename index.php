@@ -334,7 +334,7 @@ if (strpos($context, "localhost") !== false) {
                                             <h3>Meditaciones Guiadas</h3>
                                             <p align="justify">Cientos de estudios sugieren que la meditación no sólo disminuyen los niveles de estrés, sino que también tiene beneficios tangibles</p>
 
-                                            <!-- a class="readmore" href="#">Leer más...</a-->
+                                            <a class="readmore" href="<?=$context ?>/pages/guies.php">Leer más...</a>
                                         </div>
                                     </div>
                                 </div>
