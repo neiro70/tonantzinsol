@@ -1,18 +1,8 @@
 <?php
-echo '<pre>';
 
-// Muestra el resultado completo del comando "ls", y devuelve la
-// ultima linea de la salida en $ultima_linea. Almacena el valor de
-// retorno del comando en $retval.
-$ultima_linea = system('ls', $retval);
+$salida = shell_exec('git status');
+echo "<pre>$salida</pre>";
 
-// Imprimir informacion adicional
-echo '
-</pre>
-<hr />Ultima linea de la salida: ' . $ultima_linea . '
-<hr />Valor de retorno: ' . $retval;
-
-
-$salida = shell_exec('git');
-echo "XXX<pre>$salida</pre>";
+$salida = shell_exec('git pull origin master');
+echo "<pre>$salida</pre>";
 ?>
