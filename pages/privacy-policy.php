@@ -15,7 +15,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <base href="<?php echo $context ?>/index.php/contact-us" />
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-      <title>Meditaciones Guiadas</title>
+      <title>Aviso de Privacidad</title>
       <link rel="stylesheet" href="<?php echo $context ?>/plugins/system/plugin_googlemap3/plugin_googlemap3.css.php" type="text/css" />
       <link rel="stylesheet" href="<?php echo $context ?>/templates/as002060/css/bootstrap.css" type="text/css" />
       <link rel="stylesheet" href="<?php echo $context ?>/templates/as002060/css/tmpl.default.css" type="text/css" />
@@ -84,7 +84,7 @@
                            </a>
 						   <ul class="sf-menu   sticky" id="module-226">
                               <li class="item-435 current active"><a href="<?=$context ?>">Inicio</a></li>
-                              <li class="item-487"><a href="<?=$context ?>/pages/contact-us.php"> Contactanos</a></li>
+                              <li class="item-487"><a href="<?=$context ?>/pages/contact-us.php">Contactanos</a></li>
 							  <li class="item-488 deeper dropdown parent">
                                  <a href="" >¿Sabias que?</a>
                                  <ul class="sub-menu">
@@ -285,144 +285,114 @@
                      </div>
                      <div class="page-item page-item__terms">
                         <div class="item_header">
-                           <h2 class="item_title">
-                              Meditaciones Guiadas				
-                           </h2>
+                           <h1 class="item_title">
+                              Aviso de Privacidad				
+                           </h1>
                         </div>
-                        <div class="item_img img-full img-full__left item-image"> <img src="<?php echo $context ?>/images/index/meditacion.png" alt=""/> 
-                        </div>
+                        <!-- div class="item_img img-full img-full__left item-image"> <img src="<?php echo $context ?>/images/sampledata/asimages/featured/skin_care_1_thumb.jpg" alt=""/> 
+                        </div -->
                         <div class="item_fulltext">
-						<p>
-                        
-                             
-                                <p><strong>Meditaci&oacute;n</strong></p>
+						
+								<p>Tonantzinsol,&nbsp;con&nbsp;domicilio&nbsp;en&nbsp;el Estado de&nbsp;M&eacute;xico,&nbsp;es&nbsp;el&nbsp;responsable&nbsp;del&nbsp;uso&nbsp;y&nbsp;protecci&oacute;n&nbsp;de&nbsp;sus&nbsp;datos&nbsp;personales,&nbsp;y&nbsp;al&nbsp;respecto&nbsp;le&nbsp;informamos&nbsp;lo&nbsp;siguiente:</p>
+						   		<br>
+								<h3><strong>&iquest;Para&nbsp;qu&eacute;&nbsp;fines&nbsp;utilizaremos&nbsp;sus&nbsp;datos&nbsp;personales?</strong></h3>
 
-                                <p>El t&eacute;rmino meditaci&oacute;n se refiere a un amplio espectro de pr&aacute;cticas que incluyen t&eacute;cnicas dise&ntilde;adas para promover la relajaci&oacute;n, construir energ&iacute;a interna o fuerza de vida (<a href="https://es.wikipedia.org/wiki/Q%C3%AC">Q&igrave;</a>, ki, chi, <a href="https://es.wikipedia.org/wiki/Pr%C4%81%E1%B9%87a">prāṇa</a>, etc.)</p>
+								<p>Los&nbsp;datos&nbsp;personales&nbsp;que&nbsp;recabamos&nbsp;de&nbsp;usted,&nbsp;los&nbsp;utilizaremos&nbsp;para&nbsp;las&nbsp;siguientes&nbsp;finalidades&nbsp;que&nbsp;son&nbsp;necesarias&nbsp;para&nbsp;el&nbsp;servicio&nbsp;que&nbsp;solicita:</p>
 
-                                <p>y desarrollar compasi&oacute;n, amor, paciencia, generosidad y perd&oacute;n. Una forma particularmente ambiciosa de meditaci&oacute;n tiene como fin conseguir sostener la concentraci&oacute;n en un punto sin esfuerzo,<a href="https://es.wikipedia.org/wiki/Meditaci%C3%B3n#cite_note-4">4</a> enfocado a habilitar en su practicante un estado de bienestar en cualquier actividad de la vida.</p>
+								<ul>
+									<li>Env&iacute;o&nbsp;de&nbsp;informaci&oacute;n&nbsp;comercial&nbsp;a&nbsp;solicitud&nbsp;del&nbsp;interesado</li>
+									<li>Comunicaci&oacute;n&nbsp;con&nbsp;el&nbsp;interesado</li>
+								</ul>
 
-                                <p>La meditaci&oacute;n toma diferentes significados en diferentes contextos; &eacute;sta se ha practicado desde la antig&uuml;edad como un componente de numerosas religiones y creencias, pero la meditaci&oacute;n no constituye una religi&oacute;n en s&iacute; misma. La meditaci&oacute;n normalmente implica un esfuerzo interno para autorregular la mente de alguna forma</p>
+								<p style="margin-left:6.0000pt;">De&nbsp;manera&nbsp;adicional,&nbsp;utilizaremos&nbsp;su&nbsp;informaci&oacute;n&nbsp;personal&nbsp;para&nbsp;las&nbsp;siguientes&nbsp;finalidades&nbsp;que&nbsp;no&nbsp;son&nbsp;necesarias&nbsp;para&nbsp;el&nbsp;servicio&nbsp;solicitado,&nbsp;pero&nbsp;que&nbsp;nos&nbsp;permiten&nbsp;y&nbsp;facilitan&nbsp;brindarle&nbsp;una&nbsp;mejor&nbsp;atenci&oacute;n:</p>
 
-                                <p>Desde el punto de vista de la <a href="https://es.wikipedia.org/wiki/Psicolog%C3%ADa">psicolog&iacute;a</a> y la <a href="https://es.wikipedia.org/wiki/Fisiolog%C3%ADa">fisiolog&iacute;a</a>, la meditaci&oacute;n puede inducir un estado alterado de conciencia.</p>
+								<ul>
+									<li>Env&iacute;o&nbsp;de&nbsp;informaci&oacute;n&nbsp;comercial&nbsp;de&nbsp;inter&eacute;s</li>
+								</ul>
 
-                                <p>Tales estados tienen una correspondencia neurofisiol&oacute;gica que se puede medir.<a href="https://es.wikipedia.org/wiki/Meditaci%C3%B3n#cite_note-8">8</a> A d&iacute;a de hoy, existen muchos tipos de meditaci&oacute;n practicados en la cultura occidental. La respiraci&oacute;n consciente, relajaci&oacute;n muscular progresiva, se han encontrado beneficiosas en t&eacute;rminos cognitivos tales como la relajaci&oacute;n. Con entrenamiento en la meditaci&oacute;n, la rumiaci&oacute;n depresiva puede rebajarse y se puede lograr una mayor paz mental</p>
+								<p>En&nbsp;caso&nbsp;de&nbsp;que&nbsp;no&nbsp;desee&nbsp;que&nbsp;sus&nbsp;datos&nbsp;personales&nbsp;sean&nbsp;tratados&nbsp;para&nbsp;estos&nbsp;fines&nbsp;adicionales,&nbsp;desde&nbsp;este&nbsp;momento&nbsp;usted&nbsp;nos&nbsp;puede&nbsp;comunicar&nbsp;lo&nbsp;anterior,&nbsp;a&nbsp;trav&eacute;s&nbsp;de&nbsp;la&nbsp;direcci&oacute;n&nbsp;&nbsp;<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <br> <br>
+								<br>
+								   
+								<h3><strong>&iquest;Qu&eacute;&nbsp;datos&nbsp;personales&nbsp;utilizaremos&nbsp;para&nbsp;estos&nbsp;fines?</strong></h3>
 
-                                <h2>Beneficios de la meditaci&oacute;n</h2>
+								<p>Para&nbsp;llevar&nbsp;a&nbsp;cabo&nbsp;las&nbsp;finalidades&nbsp;descritas&nbsp;en&nbsp;el&nbsp;presente&nbsp;aviso&nbsp;de&nbsp;privacidad,&nbsp;utilizaremos&nbsp;los&nbsp;siguientes&nbsp;datos&nbsp;personales:&nbsp;Datos&nbsp;de&nbsp;contacto&nbsp;tales&nbsp;como&nbsp;nombre,&nbsp;tel&eacute;fono,&nbsp;domicilio&nbsp;y&nbsp;formas&nbsp;de&nbsp;contacto&nbsp;electr&oacute;nicas.</p>
 
-                                <p>Meditar no siempre es f&aacute;cil, especialmente al inicio, pues requiere disciplina y pr&aacute;ctica para su perfecci&oacute;n. Por tanto, requiere esfuerzo, pero a la larga sus beneficios para la salud son numerosos.</p>
+								<p>Adem&aacute;s&nbsp;de&nbsp;los&nbsp;datos&nbsp;personales&nbsp;mencionados&nbsp;anteriormente,&nbsp;para&nbsp;las&nbsp;finalidades&nbsp;informadas&nbsp;en&nbsp;el&nbsp;presente&nbsp;aviso&nbsp;de&nbsp;privacidad&nbsp;utilizaremos&nbsp;los&nbsp;siguientes&nbsp;datos&nbsp;personales&nbsp;considerados&nbsp;como&nbsp;sensibles,&nbsp;que&nbsp;requieren&nbsp;de&nbsp;especial&nbsp;protecci&oacute;n:&nbsp;datos&nbsp;financieros,&nbsp;biom&eacute;tricos,&nbsp;digitales,&nbsp;de&nbsp;identificaci&oacute;n,&nbsp;patrimoniales,&nbsp;acad&eacute;micos&nbsp;o&nbsp;laborales.</p>
 
-                                <p>En el mundo acelerado en el que vivimos, muchas personas encuentran en la meditaci&oacute;n una forma de conectar de nuevo con ellos mismos, lejos de la cultura occidental, donde el consumismo y los valores materialistas rigen la vida de la gran mayor&iacute;a de ciudadanos. La meditaci&oacute;n es una manera de recuperar la esencia de uno mismo y lograr la paz interior.</p>
+								<br>
 
-                                <p>De forma resumida, estos son algunos beneficios de la meditaci&oacute;n:</p>
+								<h3><strong>&iquest;Con&nbsp;qui&eacute;n&nbsp;compartimos&nbsp;su&nbsp;informaci&oacute;n&nbsp;personal&nbsp;y&nbsp;para&nbsp;qu&eacute;&nbsp;fines?</strong></h3>
 
-                                <ul>
-                                    <li><strong>Aumenta tu autoconocimiento:</strong> algunas formas de meditaci&oacute;n ayudan a reflexionar sobre la propia existencia.</li>
-                                    <li><a href="https://psicologiaymente.net/clinica/consejos-reducir-estres"><strong>Mitiga los efectos del estr&eacute;s</strong></a><strong>:</strong> ayuda a encontrar la calma y a reducir los niveles de estr&eacute;s y ansiedad.</li>
-                                    <li><strong>Afecta positivamente al sistema inmunol&oacute;gico</strong>: tiene efectos positivos en la salud general.</li>
-                                    <li><a href="https://psicologiaymente.net/inteligencia/consejos-mejorar-concentracion"><strong>Mejora la capacidad de atenci&oacute;n y concentraci&oacute;n</strong></a><strong>:</strong> trabaja la autoconciencia y la atenci&oacute;n.</li>
-                                    <li><a href="https://psicologiaymente.net/personalidad/rasgos-personas-empaticas"><strong>Es &uacute;til para empatizar con los dem&aacute;s</strong></a><strong>:</strong> mejora las relaciones interpersonales.</li>
-                                    <li><strong>Aumenta la tolerancia al dolor</strong>: reduce los s&iacute;ntomas dolorosos y crea mayor control en las reacciones del mismo organismo.</li>
-                                    <li><a href="https://psicologiaymente.net/psicologia/tipos-de-memoria"><strong>Mejora la memoria y las funciones cognitivas</strong></a><strong>:</strong> acrecienta la memoria tal y como indican algunos estudios.</li>
-                                    <li><a href="https://psicologiaymente.net/reflexiones/pensamientos-positivos-cortos"><strong>Potencia la aparici&oacute;n de pensamientos positivos</strong></a>: ayuda a tener una actitud optimista y positiva.</li>
-                                    <li><strong>Crea una verdadera conexi&oacute;n con el todo:</strong> en la cual se expresa mayor claridad en la vida y asuntos a resolver, as&iacute; como, estados internos.</li>
-                                </ul>
+								<p>Le&nbsp;informamos&nbsp;que&nbsp;sus&nbsp;datos&nbsp;personales&nbsp;son&nbsp;compartidos&nbsp;dentro&nbsp;y&nbsp;fuera&nbsp;del&nbsp;pa&iacute;s&nbsp;con&nbsp;las&nbsp;siguientes&nbsp;personas,&nbsp;empresas,&nbsp;organizaciones&nbsp;y&nbsp;autoridades&nbsp;distintas&nbsp;a&nbsp;nosotros,&nbsp;para&nbsp;los&nbsp;siguientes&nbsp;fines:</p>
 
-                                <p>Ya sea para calmar la mente, para encontrarse a uno mismo o para reducir la ansiedad o el estr&eacute;s, es interesante que introduzcas esta pr&aacute;ctica en tu vida diaria, pues es un modo de mejorar la calidad de vida.</p>
+								<p>Destinatario&nbsp;de&nbsp;los&nbsp;datos&nbsp;personales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pa&iacute;s&nbsp;(opcional)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalidad</p>
 
-                                <p>Aqu&iacute; podr&aacute;s encontrar la forma m&aacute;s adecuada para meditar y se adecue a tus necesidades, ya que hay varias practicas meditativas.</p>
+								<p>Autoridades&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M&eacute;xico&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si&nbsp;nos&nbsp;fuera&nbsp;solicitado&nbsp;en&nbsp;un&nbsp;proceso&nbsp;judicial&nbsp;bajo&nbsp;una&nbsp;orden.</p>
 
-                                <p>Practicas Adicionales de Aprendizaje:</p>
+								<p>Socios&nbsp;de&nbsp;Negocios&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M&eacute;xico&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proporcionarle&nbsp;un&nbsp;servicio&nbsp;que&nbsp;no&nbsp;dependa&nbsp;completamente&nbsp;de&nbsp;</p>
 
-                                <ul>
-                                    <li>El manejo adecuado de mudras</li>
-                                    <li>Tipos de meditaciones</li>
-                                    <li>Mantras</li>
-                                    <li>M&aacute;ndalas</li>
-                                    <li>Respiraci&oacute;n consiente</li>
-                                    <li>Atenci&oacute;n plena</li>
-                                    <li>Aromaterapia</li>
-                                    <li>Cronoterapia</li>
-                                </ul>
+								<p>Entidades&nbsp;Financieras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M&eacute;xico&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Validar&nbsp;informaci&oacute;n&nbsp;de&nbsp;pagos&nbsp;entre&nbsp;los&nbsp;involucrados*</p>
 
-                                <h3>1. Meditaci&oacute;n de Sonido Primordial</h3>
+								<p>Le&nbsp;informamos&nbsp;que&nbsp;para&nbsp;las&nbsp;transferencias&nbsp;indicadas&nbsp;con&nbsp;un&nbsp;asterisco&nbsp;(*)&nbsp;requerimos&nbsp;obtener&nbsp;su&nbsp;consentimiento.&nbsp;Si&nbsp;usted&nbsp;no&nbsp;manifiesta&nbsp;su&nbsp;negativa&nbsp;para&nbsp;dichas&nbsp;transferencias,&nbsp;entenderemos&nbsp;que&nbsp;nos&nbsp;lo&nbsp;ha&nbsp;otorgado&nbsp;[&Eacute;sto&nbsp;s&oacute;lo&nbsp;aplica&nbsp;para&nbsp;consentimiento&nbsp;t&aacute;cito].</p>
 
-                                <p>La Meditaci&oacute;n de Sonido Primordial es una t&eacute;cnica de meditaci&oacute;n basada en mantras, enraizada en la tradici&oacute;n v&eacute;dica de la India. Un mantra es una frase que repetida que nos ayuda a llegar al estado de relajaci&oacute;n e interiorizaci&oacute;n que propician el estado meditativo. Los mantras no son frases al azar, sino que son sonidos sagrados que los sabios de la antig&uuml;edad utilizaban para su pr&aacute;ctica meditativa, porque poseen un gran poder armonizador.</p>
+								<p>No&nbsp;autorizo&nbsp;que&nbsp;mis&nbsp;datos&nbsp;personales&nbsp;sean&nbsp;compartidos&nbsp;con&nbsp;los&nbsp;siguientes&nbsp;terceros&nbsp;(favor&nbsp;de&nbsp;notificarlo&nbsp;a&nbsp;tonantzinsol10@gmail.com&nbsp;)</p>
 
-                                <p>Pese a que este tipo de meditaci&oacute;n es milenario, Deepak Chopra y David Simon revivieron esta antigua pr&aacute;ctica y crearon un programa de meditaci&oacute;n basado en mantras que cualquiera puede practicar, por lo que en occidente goza de cierta popularidad en la actualidad. Durante la meditaci&oacute;n, es necesario repetir este mantra silenciosamente, pues crea una vibraci&oacute;n que permite colocarse en un lugar apartado del ruido de la mente, llegando a la calma y la conciencia pura. Este tipo de meditaci&oacute;n es ideal para aquellas personas que buscan una estructura en su pr&aacute;ctica de meditaci&oacute;n.</p>
+								<p><strong>&iquest;C&oacute;mo&nbsp;puede&nbsp;acceder,&nbsp;rectificar&nbsp;o&nbsp;cancelar&nbsp;sus&nbsp;datos&nbsp;personales,&nbsp;u&nbsp;oponerse&nbsp;a&nbsp;su&nbsp;uso?</strong></p>
 
-                                <br>
+								<p>Usted&nbsp;tiene&nbsp;derecho&nbsp;a&nbsp;conocer&nbsp;qu&eacute;&nbsp;datos&nbsp;personales&nbsp;tenemos&nbsp;de&nbsp;usted,&nbsp;para&nbsp;qu&eacute;&nbsp;los&nbsp;utilizamos&nbsp;y&nbsp;las&nbsp;condiciones&nbsp;del&nbsp;uso&nbsp;que&nbsp;les&nbsp;damos&nbsp;(Acceso).&nbsp;Asimismo,&nbsp;es&nbsp;su&nbsp;derecho&nbsp;solicitar&nbsp;la&nbsp;correcci&oacute;n&nbsp;de&nbsp;su&nbsp;informaci&oacute;n&nbsp;personal&nbsp;en&nbsp;caso&nbsp;de&nbsp;que&nbsp;est&eacute;&nbsp;desactualizada,&nbsp;sea&nbsp;inexacta&nbsp;o&nbsp;incompleta&nbsp;(Rectificaci&oacute;n);&nbsp;que&nbsp;la&nbsp;eliminemos&nbsp;de&nbsp;nuestros&nbsp;registros&nbsp;o&nbsp;bases&nbsp;de&nbsp;datos&nbsp;cuando&nbsp;considere&nbsp;que&nbsp;la&nbsp;misma&nbsp;no&nbsp;est&aacute;&nbsp;siendo&nbsp;utilizada&nbsp;conforme&nbsp;a&nbsp;los&nbsp;principios,&nbsp;deberes&nbsp;y&nbsp;obligaciones&nbsp;previstas&nbsp;en&nbsp;la&nbsp;normativa&nbsp;(Cancelaci&oacute;n);&nbsp;as&iacute;&nbsp;como&nbsp;oponerse&nbsp;al&nbsp;uso&nbsp;de&nbsp;sus&nbsp;datos&nbsp;personales&nbsp;para&nbsp;fines&nbsp;espec&iacute;ficos&nbsp;(Oposici&oacute;n).&nbsp;Estos&nbsp;derechos&nbsp;se&nbsp;conocen&nbsp;como&nbsp;derechos&nbsp;ARCO.</p>
 
-                                <h3>2. Meditaci&oacute;n Vipassana</h3>
+								<p>Para&nbsp;el&nbsp;ejercicio&nbsp;de&nbsp;cualquiera&nbsp;de&nbsp;los&nbsp;derechos&nbsp;ARCO,&nbsp;usted&nbsp;deber&aacute;&nbsp;presentar&nbsp;la&nbsp;solicitud&nbsp;respectiva&nbsp;en&nbsp;formato&nbsp;digital&nbsp;firmado&nbsp;a&nbsp;<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <p>La meditaci&oacute;n Vipassana se conoce a menudo como meditaci&oacute;n del &ldquo;insight&rdquo; y permite ver las cosas como realmente son. Tambi&eacute;n es una pr&aacute;ctica de meditaci&oacute;n budista tradicional, que se emplea mucho en occidente gracias al Mindfulness. Este tipo de meditaci&oacute;n enfatiza la conciencia de la respiraci&oacute;n, sintonizando el aire que entra y sale a trav&eacute;s de la nariz. Tambi&eacute;n se centra en etiquetar pensamientos y experiencias a medida que surgen.</p>
+								<p>Para&nbsp;conocer&nbsp;el&nbsp;procedimiento&nbsp;y&nbsp;requisitos&nbsp;para&nbsp;el&nbsp;ejercicio&nbsp;de&nbsp;los&nbsp;derechos&nbsp;ARCO,&nbsp;usted&nbsp;podr&aacute;&nbsp;ponerse&nbsp;en&nbsp;contacto&nbsp;con&nbsp;nuestro&nbsp;Departamento&nbsp;de&nbsp;Privacidad,&nbsp;que&nbsp;dar&aacute;&nbsp;tr&aacute;mite&nbsp;a&nbsp;las&nbsp;solicitudes&nbsp;para&nbsp;el&nbsp;ejercicio&nbsp;de&nbsp;estos&nbsp;derechos,&nbsp;y&nbsp;atender&aacute;&nbsp;cualquier&nbsp;duda&nbsp;que&nbsp;pudiera&nbsp;tener&nbsp;respecto&nbsp;al&nbsp;tratamiento&nbsp;de&nbsp;su&nbsp;informaci&oacute;n.&nbsp;Los&nbsp;datos&nbsp;de&nbsp;contacto&nbsp;del&nbsp;Departamento&nbsp;de&nbsp;Privacidad&nbsp;son&nbsp;los&nbsp;siguientes:&nbsp;<br />
+								<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <p>Cada vez que se identifica un pensamiento o una emoci&oacute;n, es necesario identificarlo y dejarlo pasar con una actitud no enjuiciadora. Hay varios tipos diferentes de meditaci&oacute;n Vipassana que han evolucionado desde el estilo tradicional a lo largo de los a&ntilde;os.</p>
+								<p>&nbsp;</p>
 
-                                <p>Puedes profundizar en este tipo de meditaci&oacute;n con estas t&eacute;cnicas: &ldquo;<a href="https://psicologiaymente.net/meditacion/ejercicios-mindfulness-mejorar-bienestar">5 ejercicios Mindfulness para mejorar tu bienestar emocional</a>&rdquo;</p>
-                                
-                                <br>
-                                
-                                <h3>3. Meditaci&oacute;n Zazen (Zen)</h3>
+								<h3><strong>&iquest;C&oacute;mo&nbsp;puede&nbsp;revocar&nbsp;su&nbsp;consentimiento&nbsp;para&nbsp;el&nbsp;uso&nbsp;de&nbsp;sus&nbsp;datos&nbsp;personales?</strong></h3>
 
-                                <p>La traducci&oacute;n de la palabra japonesa &ldquo;Zazen&rdquo; significa &ldquo;meditaci&oacute;n sentada&quot;. Muchas personas, cuando visualizan la meditaci&oacute;n, se imaginan a una persona en el suelo con las piernas cruzadas, los ojos cerrados y los dedos de las manos en posici&oacute;n Mudra. Esto no ocurre con la meditaci&oacute;n Zazen.</p>
+								<p><br />
+								Usted&nbsp;puede&nbsp;revocar&nbsp;el&nbsp;consentimiento&nbsp;que,&nbsp;en&nbsp;su&nbsp;caso,&nbsp;nos&nbsp;haya&nbsp;otorgado&nbsp;para&nbsp;el&nbsp;tratamiento&nbsp;de&nbsp;sus&nbsp;datos&nbsp;personales.&nbsp;Sin&nbsp;embargo,&nbsp;es&nbsp;importante&nbsp;que&nbsp;tenga&nbsp;en&nbsp;cuenta&nbsp;que&nbsp;no&nbsp;en&nbsp;todos&nbsp;los&nbsp;casos&nbsp;podremos&nbsp;atender&nbsp;su&nbsp;solicitud&nbsp;o&nbsp;concluir&nbsp;el&nbsp;uso&nbsp;de&nbsp;forma&nbsp;inmediata,&nbsp;ya&nbsp;que&nbsp;es&nbsp;posible&nbsp;que&nbsp;por&nbsp;alguna&nbsp;obligaci&oacute;n&nbsp;legal&nbsp;requiramos&nbsp;seguir&nbsp;tratando&nbsp;sus&nbsp;datos&nbsp;personales.&nbsp;Asimismo,&nbsp;usted&nbsp;deber&aacute;&nbsp;considerar&nbsp;que&nbsp;para&nbsp;ciertos&nbsp;fines,&nbsp;la&nbsp;revocaci&oacute;n&nbsp;de&nbsp;su&nbsp;consentimiento&nbsp;implicar&aacute;&nbsp;que&nbsp;no&nbsp;le&nbsp;podamos&nbsp;seguir&nbsp;prestando&nbsp;el&nbsp;servicio&nbsp;que&nbsp;nos&nbsp;solicit&oacute;,&nbsp;o&nbsp;la&nbsp;conclusi&oacute;n&nbsp;de&nbsp;su&nbsp;relaci&oacute;n&nbsp;con&nbsp;nosotros.</p>
 
-                                <p>Aunque este tipo de meditaci&oacute;n se centra en la respiraci&oacute;n y en observar los pensamientos y experiencias medida que pasan a trav&eacute;s de la mente y en observar las experiencias del medio ambiente, como ocurre en la meditaci&oacute;n Vipassana, existen algunas diferencias entre ambas clases de meditaci&oacute;n. Una diferencia pr&aacute;ctica principal es que, en la meditaci&oacute;n Zen, el &eacute;nfasis de la respiraci&oacute;n est&aacute; en el vientre, en lugar de la nariz (como en Vipassana).</p>
+								<p>Para&nbsp;revocar&nbsp;su&nbsp;consentimiento&nbsp;deber&aacute;&nbsp;presentar&nbsp;su&nbsp;solicitud&nbsp;en&nbsp;formato&nbsp;digital&nbsp;firmado&nbsp;a&nbsp;<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <p>Otra gran diferencia es que la postura es mucho m&aacute;s estricta en la meditaci&oacute;n Zen que en Vipassana, con una atenci&oacute;n especial sobre la columna recta, la barbilla agachada y las manos colocadas en una posici&oacute;n especial sobre el vientre. En la meditaci&oacute;n Zazen, los ojos siempre deben estar abiertos, con una mirada baja, y en Vipassana, no hay reglas estrictas para la mirada, aunque es habitual que se mantengan los ojos cerrados. La <a href="https://psicologiaymente.net/reflexiones/frases-zen">meditaci&oacute;n Zen</a> se recomienda para aquellas personas que ya tienen experiencia previa con la pr&aacute;ctica meditativa.</p>
-                                
-                                <br>
-                                
-                                <h3>4. Meditaci&oacute;n Trascendental</h3>
+								<p>Para&nbsp;conocer&nbsp;el&nbsp;procedimiento&nbsp;y&nbsp;requisitos&nbsp;para&nbsp;la&nbsp;revocaci&oacute;n&nbsp;del&nbsp;consentimiento,&nbsp;usted&nbsp;podr&aacute;&nbsp;ponerse&nbsp;en&nbsp;contacto&nbsp;con&nbsp;nuestro&nbsp;Departamento&nbsp;de&nbsp;Privacidad.</p>
 
-                                <p>La Meditaci&oacute;n Trascendental es otro tipo de meditaci&oacute;n basada en mantras. Al igual que la Meditaci&oacute;n de Sonido Primordial, su origen se remonta a la antigua India y cada persona se le da un mantra personal empleado por cualidades vibracionales para ayudar a calmar la mente. Aunque el prop&oacute;sito de la meditaci&oacute;n en ambas formas es similar, existen bastantes diferencias, incluyendo los mantras mismos y c&oacute;mo se seleccionan, la instrucci&oacute;n de la meditaci&oacute;n y el tiempo recomendado para meditar.</p>
+								<br>
 
-                                <br>
-                                
-                                <h3>5. Meditaci&oacute;n Metta o del Amor Benevolente</h3>
+								<h3><strong>&iquest;C&oacute;mo&nbsp;puede&nbsp;limitar&nbsp;el&nbsp;uso&nbsp;o&nbsp;divulgaci&oacute;n&nbsp;de&nbsp;su&nbsp;informaci&oacute;n&nbsp;personal?&nbsp;</strong></h3>
 
-                                <p>La meditaci&oacute;n Metta o de Amor Benevolente tiene su significado en la bondad incondicional y amistad. Este estilo de meditaci&oacute;n tambi&eacute;n tiene su origen en las ense&ntilde;anzas budistas, principalmente el budismo tibetano. Tal y como muestran los estudios cient&iacute;ficos, la compasi&oacute;n y esta forma de meditaci&oacute;n bondadosa y amorosa ha demostrado ser particularmente &uacute;til para impulsar la empat&iacute;a, la positividad, la aceptaci&oacute;n y la compasi&oacute;n hacia uno mismo y los dem&aacute;s. Cualquier persona con baja autoestima, altos niveles de autocr&iacute;tica y un deseo de ser m&aacute;s emp&aacute;tico con los dem&aacute;s puede beneficiarse de esta pr&aacute;ctica.</p>
+								<p>Con&nbsp;objeto&nbsp;de&nbsp;que&nbsp;usted&nbsp;pueda&nbsp;limitar&nbsp;el&nbsp;uso&nbsp;y&nbsp;divulgaci&oacute;n&nbsp;de&nbsp;su&nbsp;informaci&oacute;n&nbsp;personal,&nbsp;le&nbsp;ofrecemos&nbsp;los&nbsp;siguientes&nbsp;medios:</p>
 
-                                <br>
-                                
-                                <h3>6. Meditaci&oacute;n Kundalini</h3>
+								<ul>
+									<li>Su&nbsp;inscripci&oacute;n&nbsp;en&nbsp;el&nbsp;Registro&nbsp;P&uacute;blico&nbsp;para&nbsp;Evitar&nbsp;Publicidad,&nbsp;que&nbsp;est&aacute;&nbsp;a&nbsp;cargo&nbsp;de&nbsp;la&nbsp;Procuradur&iacute;a&nbsp;Federal&nbsp;del&nbsp;Consumidor,&nbsp;con&nbsp;la&nbsp;finalidad&nbsp;de&nbsp;que&nbsp;sus&nbsp;datos&nbsp;personales&nbsp;no&nbsp;sean&nbsp;utilizados&nbsp;para&nbsp;recibir&nbsp;publicidad&nbsp;o&nbsp;promociones&nbsp;de&nbsp;empresas&nbsp;de&nbsp;bienes&nbsp;o&nbsp;servicios.&nbsp;Para&nbsp;mayor&nbsp;informaci&oacute;n&nbsp;sobre&nbsp;este&nbsp;registro,&nbsp;usted&nbsp;puede&nbsp;consultar&nbsp;el&nbsp;portal&nbsp;de&nbsp;Internet&nbsp;de&nbsp;la&nbsp;PROFECO,&nbsp;o&nbsp;bien&nbsp;ponerse&nbsp;en&nbsp;contacto&nbsp;directo&nbsp;con&nbsp;&eacute;sta.</li>
+								</ul>
 
-                                <p>La idea principal de este tipo de meditaci&oacute;n es que gracias a esta t&eacute;cnica uno despierta su energ&iacute;a Kundalini, situada en la base de la columna vertebral. Cuando esta energ&iacute;a se libera, viaja por la columna vertebral y conduce a una experiencia com&uacute;nmente conocida como despertar Kundalini, que en &uacute;ltima instancia conduce a la iluminaci&oacute;n. Las meditaciones Kundalini pueden incluir t&eacute;cnicas de respiraci&oacute;n, mantras, mudras y c&aacute;nticos para aprovechar el poder de la mente inconsciente. Es una forma energizante de despertar la mente.</p>
+								<p>Su&nbsp;registro&nbsp;en&nbsp;el&nbsp;listado&nbsp;de&nbsp;exclusi&oacute;n,&nbsp;a&nbsp;fin&nbsp;de&nbsp;que&nbsp;sus&nbsp;datos&nbsp;personales&nbsp;no&nbsp;sean&nbsp;tratados&nbsp;para&nbsp;fines&nbsp;mercadot&eacute;cnicos,&nbsp;publicitarios&nbsp;o&nbsp;de&nbsp;prospecci&oacute;n&nbsp;comercial&nbsp;por&nbsp;nuestra&nbsp;parte.&nbsp;Para&nbsp;mayor&nbsp;informaci&oacute;n&nbsp;escr&iacute;banos&nbsp;&nbsp;a&nbsp;<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <br>
-                                
-                                <h3>7. Meditaci&oacute;n Chakra</h3>
+								<ul>
+									<li>El&nbsp;uso&nbsp;de&nbsp;tecnolog&iacute;as&nbsp;de&nbsp;rastreo&nbsp;en&nbsp;nuestro&nbsp;portal&nbsp;de&nbsp;Internet<br />
+									Le&nbsp;informamos&nbsp;que&nbsp;en&nbsp;nuestra&nbsp;p&aacute;gina&nbsp;de&nbsp;Internet&nbsp;utilizamos&nbsp;cookies,&nbsp;web&nbsp;beacons&nbsp;y&nbsp;otras&nbsp;tecnolog&iacute;as&nbsp;a&nbsp;trav&eacute;s&nbsp;de&nbsp;las&nbsp;cuales&nbsp;es&nbsp;posible&nbsp;monitorear&nbsp;su&nbsp;comportamiento&nbsp;como&nbsp;usuario&nbsp;de&nbsp;Internet,&nbsp;as&iacute;&nbsp;como&nbsp;brindarle&nbsp;un&nbsp;mejor&nbsp;servicio&nbsp;y&nbsp;experiencia&nbsp;de&nbsp;usuario&nbsp;al&nbsp;navegar&nbsp;en&nbsp;nuestra&nbsp;p&aacute;gina.</li>
+								</ul>
 
-                                <p>Un chakra es un centro energ&eacute;tico en el cuerpo, y tenemos siete de ellos, cada uno ubicado en una zona diferente del cuerpo y cada uno asociado con un color, sonido y prop&oacute;sito energ&eacute;tico diferente. Las meditaciones del chakra pueden ser muy poderosas, especialmente cuando se enfocan y se conectan con un elemento en el cuerpo f&iacute;sico o emocional a la vez. Muchas meditaciones del chakra utilizan el sonido, la colocaci&oacute;n espec&iacute;fica de las manos y las t&eacute;cnicas de visualizaci&oacute;n para conectarse con los chakras y la energ&iacute;a curativa de &eacute;stos.</p>
-                                
-                                <br>
-                                
-                                <h3>8. Meditaci&oacute;n Tonglen</h3>
+								<p>Los&nbsp;datos&nbsp;personales&nbsp;que&nbsp;obtenemos&nbsp;de&nbsp;estas&nbsp;tecnolog&iacute;as&nbsp;de&nbsp;rastreo&nbsp;son&nbsp;los&nbsp;siguientes:&nbsp;Formulario&nbsp;de&nbsp;Registro,&nbsp;mismos&nbsp;que&nbsp;utilizamos&nbsp;para&nbsp;ponernos&nbsp;en&nbsp;contacto&nbsp;con&nbsp;Usted.&nbsp;&nbsp;</p>
 
-                                <p>Este tipo de meditaci&oacute;n es budista tibetana y se caracteriza porque la persona que lo practica conecta con su propio sufrimiento en un esfuerzo por superarlo. Nuestra cultura nos ense&ntilde;a a evitar el sufrimiento y huir de &eacute;l, todo lo contrario que hace la meditaci&oacute;n Tonglen.</p>
+								<p>Estas&nbsp;tecnolog&iacute;as&nbsp;podr&aacute;n&nbsp;deshabilitarse&nbsp;siguiendo&nbsp;los&nbsp;siguientes&nbsp;pasos:&nbsp;solicitando&nbsp;la&nbsp;eliminaci&oacute;n&nbsp;de&nbsp;sus&nbsp;datos&nbsp;en&nbsp;formato&nbsp;digital&nbsp;firmado&nbsp;a&nbsp;<strong>tonantzinsol10@gmail.com</strong></p>
 
-                                <p>Esta clase de meditaci&oacute;n te ense&ntilde;a a manejar las situaciones dif&iacute;ciles de la vida, pues te permite hacerles frente al desarrollar una actitud de apertura hacia el sufrimiento y al abandonar la negatividad. Se llama tambi&eacute;n meditaci&oacute;n de dar y recibir, y cultiva la compasi&oacute;n y la empat&iacute;a a trav&eacute;s de la respiraci&oacute;n, la visualizaci&oacute;n. La pr&aacute;ctica se puede hacer en cualquier posici&oacute;n c&oacute;moda, ya sea sentado o reclinado.</p>
+								<br>
 
-                                <p>Requisitos para las Practicas Meditativas:</p>
+								<h3><strong>&iquest;C&oacute;mo&nbsp;puede&nbsp;conocer&nbsp;los&nbsp;cambios&nbsp;a&nbsp;este&nbsp;aviso&nbsp;de&nbsp;privacidad?</strong><br />
+								&nbsp;</h3>
 
-                                <ul>
-                                    <li>Reservaci&oacute;n previa, sujeto a disponibilidad.</li>
-                                </ul>
-
-                                <ul>
-                                    <li>Practica Aproximadamente 40-60 minutos</li>
-                                    <li>Disposici&oacute;n y Correcta actitud</li>
-                                    <li>Ropa c&oacute;moda de preferencia de color Claro</li>
-                                    <li>Calcetines blancos o claros de color Claro</li>
-                                </ul>
+								<p>El&nbsp;presente&nbsp;aviso&nbsp;de&nbsp;privacidad&nbsp;puede&nbsp;sufrir&nbsp;modificaciones,&nbsp;cambios&nbsp;o&nbsp;actualizaciones&nbsp;derivadas&nbsp;de&nbsp;nuevos&nbsp;requerimientos&nbsp;legales;&nbsp;de&nbsp;nuestras&nbsp;propias&nbsp;necesidades&nbsp;por&nbsp;los&nbsp;productos;&nbsp;de&nbsp;nuestras&nbsp;pr&aacute;cticas&nbsp;de&nbsp;privacidad;&nbsp;de&nbsp;cambios&nbsp;en&nbsp;nuestro&nbsp;modelo&nbsp;de&nbsp;negocio,&nbsp;o&nbsp;por&nbsp;otras&nbsp;causas.</p>
+								<p>Nos&nbsp;comprometemos&nbsp;a&nbsp;mantenerlo&nbsp;informado&nbsp;sobre&nbsp;los&nbsp;cambios&nbsp;que&nbsp;pueda&nbsp;sufrir&nbsp;el&nbsp;presente&nbsp;aviso&nbsp;de&nbsp;privacidad,&nbsp;a&nbsp;trav&eacute;s&nbsp;de&nbsp;nuestro&nbsp;SITIO&nbsp;WEB.</p>
+								<p>El&nbsp;procedimiento&nbsp;a&nbsp;trav&eacute;s&nbsp;del&nbsp;cual&nbsp;se&nbsp;llevar&aacute;n&nbsp;a&nbsp;cabo&nbsp;las&nbsp;notificaciones&nbsp;sobre&nbsp;cambios&nbsp;o&nbsp;actualizaciones&nbsp;al&nbsp;presente&nbsp;aviso&nbsp;de&nbsp;privacidad&nbsp;es&nbsp;el&nbsp;siguiente:&nbsp;Apartado&nbsp;en&nbsp;el&nbsp;Sitio&nbsp;Web.</p>
 
 
-                        
-                        
-                        </p>
-                        
-                        </div>
+
+
+
+						</div>
                      </div>
                   </div>
                   <!-- END OF COLUMN MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
@@ -500,8 +470,8 @@
                   <div id="copyright-menu" class="row">
                      <div class="mod-menu">
                         <ul class="nav menu ">
-                            <li class="item-502"><a href="<?php echo $context ?>/pages/privacy-policy.php">Terminos de uso</a></li>
-                            <li class="item-503"><a href="<?php echo $context ?>/pages/privacy-policy.php">Politicas de Privacidad</a></li>
+                           <li class="item-502"><a href="<?php echo $context ?>/pages/privacy-policy.php">Terminos de uso</a></li>
+                           <li class="item-503"><a href="<?php echo $context ?>/pages/privacy-policy.php">Politicas de Privacidad</a></li>
                         </ul>
                      </div>
                   </div>

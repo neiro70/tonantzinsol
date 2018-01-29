@@ -495,8 +495,8 @@
                   <div id="copyright-menu" class="row">
                      <div class="mod-menu">
                         <ul class="nav menu ">
-                           <li class="item-502"><a href="<?php echo $context ?>">Terminos de uso</a></li>
-                           <li class="item-503"><a href="<?php echo $context ?>">Politicas de Privacidad</a></li>
+                            <li class="item-502"><a href="<?php echo $context ?>/pages/privacy-policy.php">Terminos de uso</a></li>
+                            <li class="item-503"><a href="<?php echo $context ?>/pages/privacy-policy.php">Politicas de Privacidad</a></li>
                         </ul>
                      </div>
                   </div>
