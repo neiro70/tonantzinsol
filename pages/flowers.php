@@ -449,7 +449,7 @@
             <div id="copyright-row">
                <div class="container">
                   <div id="trademark">
-                     Copyright &copy; 2017 Tonantzinsol 
+                     Copyright &copy; 2018 Tonantzinsol 
                   </div>
                   <div id="copyright-menu" class="row">
                      <div class="mod-menu">

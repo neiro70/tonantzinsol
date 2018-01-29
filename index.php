@@ -639,7 +639,7 @@ if (strpos($context, "localhost") !== false) {
                 <div id="copyright-row">
                     <div class="container">
                         <div id="trademark">
-                            Copyright &copy; 2017 Tonantzinsol </div>
+                            Copyright &copy; 2018 Tonantzinsol </div>
                         <div id="copyright-menu" class="row">
                             <div class="mod-menu">
                                 <ul class="nav menu ">
